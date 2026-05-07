@@ -4,4 +4,10 @@ adding seecond line in the same code it working or not
 
 adding second line from satishqca
 
+<<<<<<< HEAD
 addin 2nd time statish qca
+=======
+addding third line form satish advintek
+
+addint fourth time from satish advintek
+>>>>>>> ecc05bef28f7f617429deeff6bc8635eebdf9571
