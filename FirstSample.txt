@@ -1,1 +1,3 @@
 This is a sample file created to test whether i able to push in to git or not
+
+adding seecond line in the same code it working or not
